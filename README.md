@@ -1,4 +1,4 @@
-# Online-Examination
+# Online Examination
 
 Description :
   A Simple Web Enterprise Application designed in MVC Architechture.
@@ -7,7 +7,7 @@ Description :
   For Front-End We used HTML,CSS.
   
 Project Url :
-  Source : https://github.com/asishchourasia/Online-Examination.git
+  Source : https://github.com/asishchourasia/online-examination.git
   
   
 Name : Asish Kumar Chourasia
